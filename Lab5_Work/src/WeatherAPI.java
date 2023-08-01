@@ -21,7 +21,7 @@ public final class WeatherAPI {
     private static final String DAYS_PARAM = "days";
     private static final String UNITS_PARAM = "units";
 
-    private static final String API_KEY = "f2dc3deab81d4199879c642c49a0b516";
+    private static final String API_KEY = "Put your API key here";
 
     private static final String DAYS = "5";
     private static final String CITY = "Manchester,NH";
