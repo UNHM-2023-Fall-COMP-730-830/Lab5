@@ -27,7 +27,7 @@
 ![](Lab5_Files/Class_Diagram.jpg)
 
 7. Check how the `ForecastAdapter` and `DetailsAdapter` classes implement the `getViews()` method.
-8. :computer: **Implement the `updateData()` method in the `ListView` class, which calls the `update()` method of each view in the list of views returned by the current adapter. Note that the `View` class is defined in `View.java`.**
+8. :computer: **Implement the `updateData()` method in the `ListView` class, which calls the `update()` method of each view in the list of views returned by the current adapter.** Note that the `View` class is defined in `View.java`.
 
 ---
 End of Lab5
